@@ -1,16 +1,16 @@
-### Hi there 👋
+```ruby
+def Hosuly_da_Lalilei (Lang = "vi")
+    puts "Xin chào! Tôi là Hosuly, một thằng ất ơ thích xem alimi và chơi game, và chỉ lập trình khi rảnh hoặc là quá chán không có gì làm." 
+end
 
-<!--
-**Hosuly/Hosuly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+def Enssential_infomation_about_me
+    Birthday = "15/08"
+    Country = "Vietnam"
+    Nickname = "Hosuly or Lalilei"
+    Most_Lang_Using = "Javascript, Python, Ruby"
+    Email = "guargamingvn@gmail.com","imsycel@gmail.com"
+    Discord = "⛩Hosuly Is Your "Best Friend"#8007"
+end
+```
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# lmao lmao bủh bủh dảk dảk
