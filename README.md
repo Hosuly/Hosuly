@@ -9,7 +9,7 @@ def Enssential_infomation_about_me
     Nickname = "Hosuly or Lalilei"
     Most_Lang_Using = "Javascript, Python, Ruby"
     Email = "guargamingvn@gmail.com","imsycel@gmail.com"
-    Discord = "⛩Hosuly Is Your "Best Friend"#8007"
+    Discord = '⛩Hosuly Is Your "Best Friend"#8007'
 end
 ```
 
