@@ -7,8 +7,8 @@ def Enssential_infomation_about_me
     Birthday = "15/08"
     Country = "Vietnam"
     Nickname = "Hosuly or Lalilei"
-    Most_Lang_Using = "Javascript, Python, Ruby"
-    Email = "guargamingvn@gmail.com","imsycel@gmail.com"
+    Most_Lang_Using = ["Javascript, Python, Ruby"]
+    Email = ["guargamingvn@gmail.com","imsycel@gmail.com"]
     Discord = '⛩Hosuly Is Your "Best Friend"#8007'
 end
 ```
