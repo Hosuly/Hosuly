@@ -11,7 +11,7 @@ def infomation_about_me
        langs_using: {
           code: ["Javascript", "Python", "Ruby"],
           speaking: ["Vietnamese", "English", "Cantonese"]
-       }
+       },
        email: ["guargamingvn@gmail.com","imsycel@gmail.com"],
        discord: '@hosuly'
     }
