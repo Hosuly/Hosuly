@@ -8,7 +8,10 @@ def infomation_about_me
        birthday: "15/08",
        country: "Vietnam",
        nickname: "Hosuly or Lalilei",
-       langs_using: ["Javascript", "Python", "Ruby"],
+       langs_using: {
+          code: ["Javascript", "Python", "Ruby"],
+          speaking: ["Vietnamese", "English", "Cantonese"]
+       }
        email: ["guargamingvn@gmail.com","imsycel@gmail.com"],
        discord: '@hosuly'
     }
